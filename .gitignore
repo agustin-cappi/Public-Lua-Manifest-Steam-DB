@@ -1,0 +1,6 @@
+# solo luas y meta files viajan al repo publico
+_harvester/
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
