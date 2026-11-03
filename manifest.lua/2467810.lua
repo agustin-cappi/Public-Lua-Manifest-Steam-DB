@@ -1,0 +1,7 @@
+addappid(2467810)
+addappid(2467811,0,"f58c8a69c8e18d048f04a68cdd49976bf5972ab6d4d04daa344735edbbafbf13")
+
+--[[
+Descargado desde Walftech: https://walftech.com/
+Discord: https://discord.com/invite/5m6vtWSpVD
+]]

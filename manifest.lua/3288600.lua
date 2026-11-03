@@ -1,0 +1,11 @@
+-- ============================================================
+-- Descargado desde Walftech  ->  https://walftech.com
+-- Generador de Manifest y Lua
+-- AppID: 3288600
+-- Fecha: 2026-09-14 00:56 UTC
+-- ============================================================
+
+--Gamename SKIBIDI GYATROOMS
+addappid(3288600) --Mainappid SKIBIDI GYATROOMS
+addappid(3288601, 1, "5f5b765fe91a578fb0ba7aa721f349246ce7eb6b914e51d58ec7bf4c7fcf63ec") --Main Windows Depot SKIBIDI GYATROOMS
+setManifestid(3288601, "5155676239305367325", 574725312)

@@ -1,0 +1,20 @@
+-- Breeze o​​‌‌​‌‌‌​‌‌​​‌​​​‌‌​​​‌‌​‌‌​​‌​​​​‌‌​​‌‌​‌‌​​​‌‌​​‌‌‌​​​​‌‌​​​​‌​‌‌​​‌​​​‌‌​​​‌‌​​‌‌​​‌‌​​‌‌​‌‌​​​‌‌​‌‌​​‌‌​​​​‌​​‌‌​​​‌​​‌‌​‌​​f Passion
+
+-- Main Application
+addappid(2409780)
+
+-- Content Depots (3)
+addappid(2409781, 1, "65720792d0c5ccc087188c5b45c2b6b8aa2ec5bdc4861d6cbe54c9fee4e82afa") -- Breeze of Passion - Windows
+addappid(2409782, 1, "3c936c4321a2778814ff66fb19d45b0747d16376e5adb1c5d5f9ef765c0b5c8f") -- Breeze of Passion - macOS
+addappid(2409783, 1, "4615786209c5bacf5617e85dd8110f01ef504b90f40f8237dbaeadc192a2df06") -- Breeze of Passion - Linux
+
+-- DLCs with Content (1)
+addappid(3314120)
+addappid(3314121, 1, "6ba8e7340ac804d783b299cbe05a70813456b9f7c17b7afd8888e9627038ad81") -- Breeze of Passion - Extra content
+addappid(3314122, 1, "1e94c6ae032e38a34c5457242c7715aef7e6bb4dd55061f8a68ec3fc3626bc24")
+addappid(3314123, 1, "0af055f4d23b63876a5c4549ca547a2f1ad48a6ba4affe67d15135d99fb3e220")
+
+--[[
+Descargado desde Walftech: https://walftech.com/
+Discord: https://discord.com/invite/5m6vtWSpVD
+]]

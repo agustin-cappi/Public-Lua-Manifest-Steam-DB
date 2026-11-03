@@ -1,0 +1,8 @@
+addappid(550820)
+addappid(550821,0,"af674b5253b833c4d73ac16cc4affc15a1a5898a04d13d42e78419eae90f1466")
+setManifestid(550821,"4571203845095582264")
+
+--[[
+Descargado desde Walftech: https://walftech.com/
+Discord: https://discord.com/invite/5m6vtWSpVD
+]]

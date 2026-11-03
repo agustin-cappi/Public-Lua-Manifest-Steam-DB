@@ -1,0 +1,18 @@
+-- Stac​​‌‌​​​​​​‌‌​​​‌​​‌‌​​​‌​​‌‌​​​​​‌‌​​​‌​​​‌‌​​​​​​‌‌​​​‌​​‌‌​​​‌​​‌‌​‌​​​‌‌​​​‌​​‌‌​​‌​​​​‌‌​​‌‌​​‌‌‌​​‌​‌‌​​‌​‌​​‌‌​​​‌​‌‌​​​‌​klands
+-- Note: This game supports Steam Workshop content
+
+-- Main Application
+addappid(1948280, 1, "347776869e11602b2ea91e58bea4ad63b5c4265d2a3a4eb511e22a93e7109c11")
+
+-- Content Depots (2)
+addappid(1948281, 1, "8dd1d5025c5a7f1f95e4b0daaf4207089bdab6bc74746dc37e27ae30b2cee8de") -- Stacklands - Windows
+addappid(1948282, 1, "6d4f901bb48c128e3d01f9ff294d6fe9bc02932d0ab0eeb9881d86cfef996dfb") -- Stacklands - macOS
+
+-- DLCs with Content (2)
+addappid(2867570, 1, "321d32b4b23d37a101e7cccbd57595abbd5752d7738c4a75189a6c6584374b29") -- Stacklands 2000
+addappid(2446110, 1, "ee6cab861739568f2ec3af0c3f4d6cb6ff49056d0b9d972633785776dbac536b") -- Stacklands Cursed Worlds
+
+--[[
+Descargado desde Walftech: https://walftech.com/
+Discord: https://discord.com/invite/5m6vtWSpVD
+]]

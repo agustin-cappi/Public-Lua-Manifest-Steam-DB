@@ -1,0 +1,40 @@
+-- Original file: 1536610.lua
+--Gamename OpenTTD
+addappid(1536610, 1, "cc029494a91160b6c259f59ff8e7fcc5fc66338a4863b6b9f5f01499e78e739b") --Mainappid OpenTTD
+addappid(1536612, 1, "b4c2dbd66217103b3324cda8ba86eb079eacf41b379d7cb3b4ad82fc37b13658") --Main Windows Depot OpenTTD
+setManifestid(1536612, "3239096563751067487", 10574080)
+addappid(1536613, 1, "c2cdcc7ecf2e5fb76d27909da725855d37a6344e01eef39864450e7dc026be62") --Main Windows Depot OpenTTD
+setManifestid(1536613, "5858594238384070222", 9692992)
+addappid(1536614, 1, "bb4fa618f8ec69507e69c75f4b791282c5be7c3d4d223e88c9048974c5b949c0") --Main Macos Depot OpenTTD
+setManifestid(1536614, "6454610799715045711", 14540400)
+addappid(1536615, 1, "7c2057ee43a9b02d1849483bf10dbef4b6348e664013de14cdd0fa50e5287187") --Main Linux Depot OpenTTD
+setManifestid(1536615, "6168435342100454890", 28503584)
+addappid(1536616, 1, "ba20222769007d0b0c34bbfccc3dd2e975dcdd071777b13a2d1339a787e38afe") --Main Windows Depot OpenTTD
+setManifestid(1536616, "4322537408543986610", 10383776)
+addappid(1536617, 1, "3ff8eef9b56f17887ac916bd4754abae99283a70a0b239078e24c1aa188017e5") --Main Windows Depot OpenTTD
+setManifestid(1536617, "7277431475623555860", 107904)
+addappid(1536618, 1, "369653207c03baa24e4df04067b07b7f9d7e5dcb2f74eb8c8fb85d66b94195b3") --Main Windows Depot OpenTTD
+setManifestid(1536618, "683622110957259269", 10472512)
+addappid(1536619, 1, "2c8bfac52f6d0151d33861e937c0e10d26f2962281f1d7fefcb54bc7abbe9e24") --Main Linux Depot OpenTTD
+setManifestid(1536619, "3130216549017672790", 120524560)
+addappid(2822930, 1, "013c0e9d733f5177f11ef13071a53c70d007a25c8436865c8394dc0c21499d87") --Main Windows Depot OpenTTD
+setManifestid(2822930, "6840404360960278562", 125360)
+addappid(2822931, 1, "a9e72f684f1b8df875732a85f4c64faaa3c4736a4c973e52eace2562c5b11c62") --Main Windows Depot OpenTTD
+setManifestid(2822931, "7346956666478074099", 137936)
+addappid(2822932, 1, "4ff25493641de810929cfa8e599edf52c0370f9667d3dc0401ae181bc8e10bbc") --Main Linux Depot OpenTTD
+setManifestid(2822932, "9178715736237705419", 92336)
+addappid(2822933, 1, "6bc3798ec2eec51db3f2294c4b658d2ffa99b3983f9c46393b8d54ecd7d7d57c") --Main Macos Depot OpenTTD
+setManifestid(2822933, "1314988745966208394", 102416)
+addappid(2822934, 1, "d66032103a278667062d2a59407dd8300c0688914b995d708c313e7c7ee72314") --Main Windows Depot OpenTTD
+setManifestid(2822934, "4888982384962269390", 1115360)
+addappid(2822935, 1, "0f6ebac02bc7006ea637ff94730c48927017f56eb3788d902d62dc0d3db160db") --Main Windows Depot OpenTTD
+setManifestid(2822935, "5129928704912118737", 1172768)
+addappid(2822936, 1, "3536b1f6cbfe8b08d7f49fc7ca6150f0ef185392866641462a30b7dc25faea3c") --Main Linux Depot OpenTTD
+setManifestid(2822936, "4190047786734002336", 1940704)
+addappid(2822937, 1, "3501842fcc838ec806e11ac42bb15610180bb2a18f6bb05ab8430563d6c4d5e8") --Main Macos Depot OpenTTD
+setManifestid(2822937, "1124545134821393912", 2240608)
+
+--[[
+Descargado desde Walftech: https://walftech.com/
+Discord: https://discord.com/invite/5m6vtWSpVD
+]]

@@ -1,0 +1,12 @@
+-- Ultimate The​​‌‌​​​​​​‌‌​‌‌​​‌‌​​​‌‌​‌‌​​​​‌​​‌‌​​‌​​‌‌​​​​‌​​‌‌​​‌‌​​‌‌​​‌​​​‌‌​​‌​​​‌‌​‌​‌​​‌‌​‌​​​‌‌​​​​‌​‌‌​​‌​‌​​‌‌​‌‌‌​‌‌​​​‌​​‌‌​​‌‌​ater Simulator
+
+-- Main Application
+addappid(1541370)
+
+-- Content Depots (1)
+addappid(1541373, 1, "b4a071c496a6629cb37894cf11490e438337b38ba5b8f139b1ed46a7db7a58c3") -- Ultimate Theater Simulator - Windows
+
+--[[
+Descargado desde Walftech: https://walftech.com/
+Discord: https://discord.com/invite/5m6vtWSpVD
+]]

@@ -1,0 +1,15 @@
+-- ============================================================
+-- Descargado desde Walftech  ->  https://walftech.com
+-- Generador de Manifest y Lua
+-- AppID: 1257810
+-- Fecha: 2026-09-23 20:00 UTC
+-- ============================================================
+
+--Gamename I'm on Observation Duty 2
+addappid(1257810) --Mainappid I'm on Observation Duty 2
+addappid(1257811, 1, "ca283519b62168c290e90922f82c8b70f8380777562c183b87c191d39a97440c") --Main Windows Depot I'm on Observation Duty 2
+setManifestid(1257811, "4119325072066060976", 369801344)
+addappid(1257812, 1, "c03f6eb51c153928d5f3aaa3d122d8e41e42c932c257b74c66654bc3c60f9013") --Main Linux Depot I'm on Observation Duty 2
+setManifestid(1257812, "1656785001840277025", 383342624)
+addappid(1257813, 1, "fbe9cb86088e9a4a3dff2aa4dd48dd4351a4fb173f1562cd97d3c6ac89b4f3d8") --Main Macos Depot I'm on Observation Duty 2
+setManifestid(1257813, "50330623995641620", 377125328)

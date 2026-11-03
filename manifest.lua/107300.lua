@@ -1,0 +1,10 @@
+-- Original file: 107300.lua
+--Gamename Breath of Death VII
+addappid(107300) --Mainappid Breath of Death VII
+addappid(107301, 1, "31c5809f43b6b4e7f0a011928a82a117fce7ffb56bf2f0f67e2b878fc668e80a") --Main Windows Depot Breath of Death VII
+setManifestid(107301, "1707145613571356618", 0)
+
+--[[
+Descargado desde Walftech: https://walftech.com/
+Discord: https://discord.com/invite/5m6vtWSpVD
+]]

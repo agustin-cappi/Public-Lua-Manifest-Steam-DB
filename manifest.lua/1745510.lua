@@ -1,0 +1,12 @@
+-- Lun​​‌‌​‌‌​​​‌‌​​​‌​​‌‌​​​‌​​‌‌​​‌‌​​‌‌​‌‌​​‌‌​​​​‌​‌‌​​‌​‌​‌‌​​​​‌​‌‌​​​‌‌​‌‌​​​‌‌​‌‌​​‌​‌​​‌‌​​‌‌​‌‌​​‌​‌​​‌‌​‌‌​​​‌‌​​​​​‌‌​​​​‌acid
+
+-- Main Application
+addappid(1745510)
+
+-- Content Depots (1)
+addappid(1745511, 1, "d07aafcd878b15a1b9e8c79d8197df4971a4392d31c00e32580055c4f5a9b012") -- Lunacid - Windows
+
+--[[
+Descargado desde Walftech: https://walftech.com/
+Discord: https://discord.com/invite/5m6vtWSpVD
+]]

@@ -1,0 +1,29 @@
+-- ============================================================
+-- Descargado desde Walftech  ->  https://walftech.com
+-- Generador de Manifest y Lua
+-- AppID: 495990
+-- Fecha: 2026-09-24 15:27 UTC
+-- ============================================================
+
+--Gamename True Love ～Confide to the Maple～
+addappid(495990) --Mainappid True Love ～Confide to the Maple～
+addappid(495991, 1, "e3794583cc59c8c759e9d518ff3a9307ce0559fe180aca960326de0f466cc0ae") --Main Windows Depot True Love ～Confide to the Maple～
+setManifestid(495991, "4986718726296222981", 2091743552)
+--Dlcname True Love ～Confide to the Maple～ - Original Soundtrack
+addappid(501750, 1, "4066092f7817d9c4c39f53cdf9ce80e72094dafedee63ea59c04dec6fb98bb93") --Dlcname True Love ～Confide to the Maple～ - Original Soundtrack
+setManifestid(501750, "9030760249228636995", 662544096)
+--Dlcname True love ~Confide to the maple~Featured Composer
+addappid(580210, 1, "a232fe261c07cd818218abe986a28cec419af6add0749e587dd81c52cacf6a01") --Dlcname True love ~Confide to the maple~Featured Composer
+setManifestid(580210, "2165822717353817843", 114603408)
+--Dlcname True Love ～Confide to the Maple～枫茜语音 Character Voice
+addappid(1233310, 1, "6cabbcbefc237548fd9c93568179563f7e40d8b7253f691d97d085fd6421d2d1") --Dlcname True Love ～Confide to the Maple～枫茜语音 Character Voice
+setManifestid(1233310, "1186128982313606531", 270926864)
+--Dlcname True Love ～Confide to the Maple～海音语音 Character Voice
+addappid(1233320, 1, "704e87fd8894cc5a5b61c7caac5cad0adbbbc351514c695916b1912b83a58714") --Dlcname True Love ～Confide to the Maple～海音语音 Character Voice
+setManifestid(1233320, "6117134209250264810", 275790800)
+--Dlcname 真恋～寄语枫秋～公式设定集
+addappid(2075980, 1, "37e2ef7bb27ebb1f14c77a080ed18e2b9491fb046df361da6073ebb045935316") --Dlcname 真恋～寄语枫秋～公式设定集
+setManifestid(2075980, "2643774775146243052", 50461472)
+--Share Depots
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228990, "1829726630299308803", 100658080)

@@ -1,0 +1,99 @@
+-- via manilua
+addappid(447040)
+addappid(447041, 1, "fc4010cf09dba8216eb41e3c9cb3c070d9560f152196cb6024e79e3f17f25e30")
+setManifestid(447041, "3302179946055213415", 0)
+addappid(447042, 1, "678946fb045b108ba74ad0f53329a0c8159fc926efca91b6718517585ae8d7e2")
+setManifestid(447042, "997218509313186758", 0)
+addappid(447043, 1, "e6b3f3a3dc41dee22b161d129bb9b122e5c6a2f52375e39751414142d872966c")
+setManifestid(447043, "1462578941831404281", 0)
+addappid(447044, 1, "9c8d01d2514263ec1d948361eb6024344e70a7eb7c6450a9709d586d50c6dad2") -- English
+setManifestid(447044, "6218236977191698684", 0)
+addappid(447045, 1, "e25792b08cc6e3b270d8265c8fabd4eb8a270e3efed468c96d4623d7703fafae") -- French
+setManifestid(447045, "4453696128671745411", 0)
+addappid(447046, 1, "32d567f43bc976416c7ddc1d45678bbfb80533fce7b8c70d55f30a0ec63288b8") -- Italian
+setManifestid(447046, "8361138808695365836", 0)
+addappid(447047, 1, "7fb570147fa727fd08c9f26d495f329678c878237bbeca9d4b462439c75cd74b") -- German
+setManifestid(447047, "4212646599686875567", 0)
+addappid(447048, 1, "b4581df8d2c1e5a0d5fd3e9b7179cc7f8f8b56920c9166a6d606dcf781287c2b") -- Spanish
+setManifestid(447048, "4034890384220773207", 0)
+addappid(447049, 1, "fdf6bc76a3e2ddd798d1b620fa7e09f432db69215fbecf09ba388d7369103297") -- Russian
+setManifestid(447049, "6769050862969085397", 0)
+addappid(523270, 1, "930558d1da6f0df4e392c1da31a5f5865c52abb94c5bc5125c1fc224bb5d8598") -- Brazilian
+setManifestid(523270, "6318734218003619987", 0)
+addappid(523271, 1, "8c60696a063ec9810fdab8013e0429bd516850431309169df9b3208050ea3f67") -- Japanese
+setManifestid(523271, "3235299862685763202", 0)
+addappid(523272, 1, "d1d96b641664dbea7556a3cd0107767e114acfdfeaa4b35bec66b7c92e36c27a") -- Dutch
+setManifestid(523272, "909727842574637004", 0)
+addappid(523273, 1, "5216b813ab563b947de7d8d45b8fc49219487ae9f7d04f497483cb64e083a451") -- Polish
+setManifestid(523273, "6692884236765333991", 0)
+addappid(523274, 1, "b00012ee0c00ff848850d64b9543c01480cf930fd0e2c77f1e789fb60c05120c") -- Czech
+setManifestid(523274, "5108994015488200994", 0)
+addappid(523275, 1, "6e55905d4b3fa00548f4e799a40e4cf2063c9d706953e3dd04aa18029100f35f") -- Hungarian
+setManifestid(523275, "5896793830775181708", 0)
+addappid(523276, 1, "21bce069ef2a972824611dd8a68bd9ec6d4b3a61d2e68c0414fda6c5a4e932b1") -- Korean
+setManifestid(523276, "8848020721928518196", 0)
+addappid(523277, 1, "c6c310a416c5191a74339fde859b311c71706805769308e58605d2613afd50d6") -- Traditional Chinese
+setManifestid(523277, "8887530144915320680", 0)
+addappid(523278, 1, "29be437ec393f5c15a3468c9c7794759fc2d58b53324219ed0a6d288cea8a899") -- Simplified Chinese
+setManifestid(523278, "6790149592184840366", 0)
+addappid(523279, 1, "a7931d0e7e65cd2b542a9af6359e1b6cac6dd21212b5e80807d52e11b355abeb") -- Arabic
+setManifestid(523279, "2872166881631289131", 0)
+addappid(523280, 1, "1c990f3e4447b150cd8f7cd8d8de63c35098fd2cc2bbff9ca20254ab6a5914de") -- Common Patch
+setManifestid(523280, "2019220971208328935", 0)
+
+-- dlc
+addappid(525000, 1, "7f7c5389bdb55eb129ad979a9f25bb9119d2213b72c20bf9ded7a089b9b140d3") -- Watch_Dogs® 2 - T-Bone Pack
+setManifestid(525000, "3818770049609403556", 0)
+addappid(525010, 1, "cd810c8bc9e08fce6eaa195c9a329fc616d21f4e0bb766dbfedb0c7fde1dc5e2") -- Watch_Dogs® 2 - Ultra Texture Pack
+setManifestid(525010, "7483836175353315398", 0)
+addappid(525011, 1, "9dbffd3d9fafdab811d3be8a6208cb6924bf74eead3da1213fc73327d544cd47") -- Watch_Dogs® 2 - Root Access Pack
+setManifestid(525011, "1533862689114266704", 0)
+addappid(525012, 1, "e3e816ba17301fedc531913fae48eb34a2908a80b1a8b5f61ccf7fa10379cfb8") -- Watch_Dogs® 2 - Punk Rock Pack
+setManifestid(525012, "7038970996526637326", 0)
+addappid(525013, 1, "3cd5645e21198ba6a14eedf9e5bae31957d9d69e58c508932d2c3ce732609834") -- Watch_Dogs® 2 - Psychedelic Pack
+setManifestid(525013, "7151604820994488599", 0)
+addappid(525014, 1, "357c21ff0ced6060a2529bd7c3798090d6eae7651dd4e75d340f6bb2a278e4bd") -- Watch_Dogs® 2 - Black Hat Pack
+setManifestid(525014, "596936042021230472", 0)
+addappid(525015, 1, "82020e3b98669314a4fb9bd307edffc343e699ddfd317eb05eb6f2d7f798d766") -- Watch_Dogs® 2 - Pixel Art Pack
+setManifestid(525015, "2890509369308159084", 0)
+addappid(525016, 1, "ec987ead6cd53607ab10a33a73d8a9a0d1d39207b2e24974e81db0e0c2d56744") -- Watch_Dogs® 2 - Guru Pack
+setManifestid(525016, "1654460707176312840", 0)
+addappid(525017, 1, "c2fa62b43a2276d22c672fe08528f5b044548880a79f9e2ed8b1cd21b7524dcd") -- Watch_Dogs® 2 - EliteSec Pack
+setManifestid(525017, "5960420828558892132", 0)
+addappid(525018, 1, "91ac37996aacef4e8cc6f4913b93d61449bd7835dcf5c02218e63af1add634ce") -- Watch_Dogs® 2 - Glam Pack
+setManifestid(525018, "1977170010505170029", 0)
+addappid(525019, 1, "ed3231482c421a8d72104e4b8c42d6ea6afb50fba10da0b294c97bb631fa6a24") -- Watch_Dogs® 2 - Private Eye Pack
+setManifestid(525019, "799387533860932796", 0)
+addappid(525030, 1, "110a318600e96e739eca55a825805b4635221f867ee024200f33de45a01a945f") -- Watch_Dogs® 2 - Human Conditions
+setManifestid(525030, "961189566217530477", 0)
+addappid(525031, 1, "d4c8e985e882c44ffce80096d7c027de5c34a59d87fcd0955ee284d560ac3626") -- Watch_Dogs® 2 - No Compromise
+setManifestid(525031, "4871371175234558281", 0)
+addappid(525032, 1, "837184fe6583a2469935f5dd99aef8dcb9b354c978bdbed1a8d069f6bf02a661") -- Watch_Dogs® 2 - Urban Artist Pack
+setManifestid(525032, "2323705252351048819", 0)
+addappid(525033, 1, "13f213413f1c8a3c19323829d8d220d84db2950c565f2556e6800eead21f2039") -- Watch_Dogs® 2 - Ubisoft Pack
+setManifestid(525033, "8966076327864415293", 0)
+addappid(525034, 1, "85a1a4e9c3551688baa44cb2d7b69c4a85af53234fe8d83c8802960dc5533e73") -- Watch_Dogs® 2 - Dumpster Diver Pack
+setManifestid(525034, "4735303425651977581", 0)
+addappid(525035, 1, "986d23fcc348f57f6e9924b4e6125b01612db8b57ab4b7823621eacc1048ba70") -- Watch_Dogs® 2 - Ded Labs Pack
+setManifestid(525035, "4979247215084820783", 0)
+addappid(525036, 1, "9eb3aed80a4013a78b3840b1236ba2ce13e1eb93fcce973a03b43ff158494fa2") -- Watch_Dogs® 2 - Home Town Pack
+setManifestid(525036, "1082048085711066933", 0)
+addappid(525037, 1, "61697e9cb4ae840cc906f9562dea6ee0a91ef31b4c55970440e9d2c33363906e") -- Watch_Dogs® 2 - Guts, Grit and Liberty Pack
+setManifestid(525037, "8218952416726370481", 0)
+addappid(597070, 1, "c3eaa401606a95b8153af0f2c29757005401025517d5de96a2dfa278b6fc727d") -- Watch_Dogs® 2 - Retro Modernist Pack
+setManifestid(597070, "3993095586736265619", 0)
+addappid(597071, 1, "f9563a74f2e98e964f42074b94cc28e99d37c39f048d9e911e21c06f733f42fd") -- Watch_Dogs® 2 - Glow_Pro Pack
+setManifestid(597071, "2783599295679915178", 0)
+addappid(597072, 1, "63e78917f0a2e5d4525306c7ff7a0cf97c828437cbcce37885425f41e1299e0b") -- Watch_Dogs® 2 - Ride Britannia Pack
+setManifestid(597072, "1872353120461941193", 0)
+addappid(597073, 1, "bd769c9d5ab2142217889e096545aa1328bc5cef720639468dd7ee9580e06b97") -- Watch_Dogs® 2 - Kick It Pack
+setManifestid(597073, "2885932048396936671", 0)
+addappid(597074, 1, "54b69ac8918f1b41a621c69b454f30be6613c3a7c5f74dbf93a106eb985c0d23") -- Watch_Dogs® 2 - Velvet Cowboy
+setManifestid(597074, "3618130764127901160", 0)
+addappid(597075, 1, "461868921ac918577ff1ac0e624d5ef1c58b8e9cde5386d62f1cb25753fb27b3") -- Watch_Dogs® 2 - Bay Area Thrash Pack
+setManifestid(597075, "1641108175604409131", 0)
+
+--[[
+Descargado desde Walftech: https://walftech.com/
+Discord: https://discord.com/invite/5m6vtWSpVD
+]]

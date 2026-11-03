@@ -1,0 +1,26 @@
+-- Park​​‌‌​​‌​​​‌‌​​‌‌​​‌‌​‌‌​​​‌‌​‌​​​​‌‌​‌‌​​​‌‌‌​​​​‌‌​​​​‌​‌‌​​‌‌​​​‌‌​​‌‌​‌‌​​​‌​​​‌‌‌​​​​​‌‌​‌‌​​​‌‌‌​​‌​​‌‌‌​​‌​‌‌​​‌​​​‌‌​​‌​​itect
+-- Note: This game supports Steam Workshop content
+
+-- Main Application
+addappid(453090, 1, "814914e5d3665733d3f0d99a4c0c2ee0fcc7b142628c9781e4f63d7c99d71d4c")
+
+-- Content Depots (4)
+addappid(453091, 1, "b2ec921de93c7d8fd843ef7bd80e255da48b1047c62092f99b0e71f60c6ddfaa") -- Parkitect Windows 32bit
+addappid(453092, 1, "2e3a7632423731309d9e3758beb58c166721c9c61e1c9f8425dba86fdaf92530") -- Parkitect Windows 64bit
+addappid(453093, 1, "9691c8ffda254d9d8b8d487f9d5d148e0533d3a1eed76cf2b2ae74385e7d1b4d") -- Parkitect OS X
+addappid(453094, 1, "4795a0f127e8f9ad6cf158816b84a8bbaaf27a33908bd42c527ccf72e75e61a6") -- Parkitect Linux
+
+-- DLCs with Content (2)
+addappid(1353170, 1, "851378177cbfc6b1c35f08d21fb6b87d1fbaec0015d2cfca9c6002043e74551b") -- Parkitect - Booms  Blooms
+addappid(1353171, 1, "07c7d8041fdd8d2f7d5f412ffa6d30d16f189280fd520c2e84b09b045c5d7748")
+addappid(1353172, 1, "d64addae1b9239ef58bc41cb24ef2c66dc52124c447dc727b87a04db6a2a3905")
+addappid(1353173, 1, "4162c240e07f81528b3002232cad53dae84ab7f69e9b171fb2ad1c3c26e811ec")
+addappid(1129050, 1, "34efc2133aabd1cad680c3df02055fb4ee041bad7762d18c2c8116986c1fb095") -- Parkitect - Taste of Adventure
+addappid(1129051, 1, "3ad072f566422651e2b55946f683221a7de4e3c9fa768c4b00b3155663d92300")
+addappid(1129052, 1, "8b36b0f0d8b4729919c4dd14b2731c915324e880b6bb329d1408fa792cce9288")
+addappid(1129053, 1, "8586fc29efed00f8c712d7da356d4166b84304283800aaa2885ce25256f1cb36")
+
+--[[
+Descargado desde Walftech: https://walftech.com/
+Discord: https://discord.com/invite/5m6vtWSpVD
+]]

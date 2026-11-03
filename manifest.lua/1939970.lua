@@ -1,0 +1,7 @@
+addappid(1939970)
+addappid(1939971,0,"0d0243090a47fc277116845e3718d318974cae787bb631ed034d1a1e1599918a")
+
+--[[
+Descargado desde Walftech: https://walftech.com/
+Discord: https://discord.com/invite/5m6vtWSpVD
+]]

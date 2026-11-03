@@ -1,0 +1,9 @@
+addappid(973600)
+addtoken(973600,"17591254706914924047")
+addappid(973601,0,"5d8908ddaafda2bd13b89efa3ea35edd9c36050b2579610aac863396c37c273f")
+setManifestid(973601,"7287404435412055063")
+
+--[[
+Descargado desde Walftech: https://walftech.com/
+Discord: https://discord.com/invite/5m6vtWSpVD
+]]

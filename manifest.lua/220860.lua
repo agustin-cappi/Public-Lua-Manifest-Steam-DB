@@ -1,0 +1,12 @@
+-- Original file: 220860.lua
+--Gamename McPixel
+addappid(220860) --Mainappid McPixel
+addappid(220861, 1, "33aed2a681580b6c703a513e13d1a71b6fe41678fbb37c7329467fb29c181162") --Main Windows Language Depot English McPixel
+setManifestid(220861, "6106813163484315399", 0)
+addappid(220862, 1, "98ed185dd78a88b71f3d60d3b9fd85f81527633f56bdb9f0f5478695e3a272ab") --Main Macos Language Depot English McPixel
+setManifestid(220862, "3607737117313597235", 0)
+
+--[[
+Descargado desde Walftech: https://walftech.com/
+Discord: https://discord.com/invite/5m6vtWSpVD
+]]

@@ -1,0 +1,43 @@
+-- Original file: 33600.lua
+--Gamename Broken Sword 2 - the Smoking Mirror: Remastered (2010)
+addappid(33600) --Mainappid Broken Sword 2 - the Smoking Mirror: Remastered (2010)
+addappid(33602, 1, "183566ae9512a75b3c3651c80de2231f5097045ff94589fc81b5fa643af04b1c") --Main Macos Depot Broken Sword 2 - the Smoking Mirror: Remastered (2010)
+setManifestid(33602, "4262447862031261070", 793378112)
+addappid(33604, 1, "9e83a249328c1056875ce5e01ee7a5ffa79adbb746ee22bb04739ba99687bf38") --Main Windows Depot Broken Sword 2 - the Smoking Mirror: Remastered (2010)
+setManifestid(33604, "609600262689450990", 12736848)
+addappid(33605, 1, "6bf88dbff2dc47726d1637774cb35873ccfc8252779487b93078e16c8a603f23") --Main Macos Depot Broken Sword 2 - the Smoking Mirror: Remastered (2010)
+setManifestid(33605, "3057577418500861884", 14050864)
+addappid(33606, 1, "1a0b46ebd04d7eaa0d7e2f47685864d8cc753da4fbd808f7945d3f139beb73cd") --Main Linux Depot Broken Sword 2 - the Smoking Mirror: Remastered (2010)
+setManifestid(33606, "4082907071721533379", 4372032)
+addappid(33607, 1, "c201e2173f6e830bf2d5552794cf670888a2659de2a2bb5042ae4b9a384d65aa") --Main Windows Language Depot French Broken Sword 2 - the Smoking Mirror: Remastered (2010)
+setManifestid(33607, "6214011859199983495", 307466000)
+addappid(33608, 1, "73b9ba2129bfd7e5663829dd89193ae891e8ce2c9c9970a3732c11eb7e1d1fa4") --Main Windows Language Depot German Broken Sword 2 - the Smoking Mirror: Remastered (2010)
+setManifestid(33608, "537397165825857042", 278034896)
+addappid(33609, 1, "8c8a06165320ed58ebba1cbbd9946ce87e43fff1c126dab8dec4b6e00cba66eb") --Main Windows Language Depot Italian Broken Sword 2 - the Smoking Mirror: Remastered (2010)
+setManifestid(33609, "145340276381935492", 314839264)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") --Main Windows Depot Broken Sword 2 - the Smoking Mirror: Remastered (2010)
+addappid(229020, 1, "efca2304d92ac2bb7ebca174e6e5015fb0daf45d7db8ecfc1db6eaccdc7b27d9") --Main Windows Depot Broken Sword 2 - the Smoking Mirror: Remastered (2010)
+addappid(565770, 1, "425728259415e58f4080b76d5d71d6d8e204e4ac0e86a96d04017d259a0e5fe3") --Main Windows Depot Broken Sword 2 - the Smoking Mirror: Remastered (2010)
+setManifestid(565770, "5465899111528503292", 33777840)
+addappid(565771, 1, "811d3997bd9e3e3708a52e1374e1ba0141cd6fb00a23dec5c749713c1fdf1170") --Main Windows Language Depot Spanish Broken Sword 2 - the Smoking Mirror: Remastered (2010)
+setManifestid(565771, "4144804768102673258", 262641824)
+addappid(565772, 1, "f498b87f8fe8ec302a3f86dbbe31ace21805dcfa088a46464f3bebad288f706b") --Main Linux Depot Broken Sword 2 - the Smoking Mirror: Remastered (2010)
+setManifestid(565772, "772364963875741711", 4338320)
+addappid(565773, 1, "2536a543f5a91b202bc8a4d1e292ca16c201b0fb451e2bc1de787e4a74fa464b") --Main Windows/Linux Depot Broken Sword 2 - the Smoking Mirror: Remastered (2010)
+setManifestid(565773, "1540385251733154532", 788788736)
+addappid(565774, 1, "59b14f371c7d8dece9e9ce32e9f037c837071e8dbc8f598f3d7de6a7bcbbc1fb") --Main Windows Depot Broken Sword 2 - the Smoking Mirror: Remastered (2010)
+setManifestid(565774, "1742398196731441291", 1776304)
+addappid(565775, 1, "2fd5c4ece4538c33bebf51f1fb77d01d49349348aee63cec51bc2a59c80ab49d") --Main Windows Depot Broken Sword 2 - the Smoking Mirror: Remastered (2010)
+setManifestid(565775, "1442636750660993549", 1634112)
+addappid(565776, 1, "64a3e38ea66e6f84d45ca6e9745d84776c5f3242f95e3ff1a1b86f41c1dbf972") --Main Linux Depot Broken Sword 2 - the Smoking Mirror: Remastered (2010)
+setManifestid(565776, "2294312663709977627", 1414400)
+addappid(565777, 1, "6995da1a9876f9228eeedd67200724ab5016f72b672ad09eb5e3aefe2db8fe55") --Main Linux Depot Broken Sword 2 - the Smoking Mirror: Remastered (2010)
+setManifestid(565777, "4195943380180706237", 1461328)
+addappid(580440, 1, "a3b8c1f836609f4830ae3972387029e5d354cf5711a95fd99f72a897d7a980f9") --Main Windows Depot Broken Sword 2 - the Smoking Mirror: Remastered (2010)
+setManifestid(580440, "2048381033559355962", 622803680)
+--Dlcname Broken Sword 2: Original Version
+
+--[[
+Descargado desde Walftech: https://walftech.com/
+Discord: https://discord.com/invite/5m6vtWSpVD
+]]

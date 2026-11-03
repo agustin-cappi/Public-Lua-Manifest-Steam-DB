@@ -1,0 +1,11 @@
+-- ============================================================
+-- Descargado desde Walftech  ->  https://walftech.com
+-- Generador de Manifest y Lua
+-- AppID: 3097420
+-- Fecha: 2026-10-05 18:07 UTC
+-- ============================================================
+
+--Gamename Family Island - Season 1
+addappid(3097420, 1, "4097905949d19c6ac22b6b51d6ac7509881ae2c2770b143cd9747a493f848466") --Mainappid Family Island - Season 1
+addappid(3097421, 1, "d8b65a3cdd65d43fa5f1d4726729606def0c5173e86612e116aad016645946a1") --Main Windows Depot Family Island - Season 1
+setManifestid(3097421, "2319927063543770819", 574331664)

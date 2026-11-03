@@ -1,0 +1,17 @@
+-- Generated with Walftech: walftech.com
+-- 3755860 - BLACK SOULS
+-- Generated 2026-08-29 18:41:44 UTC
+-- # Depots (Total/DLC/Shared): 4/0/0
+
+-- Main AppID
+addappid(3755860, 1, "98c27504893677355eb05d7b3390d2c3eca2b279ba4f2643ffcfca2da016a66d")
+
+-- Main Depots
+addappid(3755861, 1, "1e7edb84c54a75b892289bf1f527430096987c8014060ed0f5a31431c19a9985") -- Japanese
+setManifestid(3755861, "6682752774339849402", 706949533)
+addappid(3755862, 1, "d33a7f927ce836afe9da58b68f405435737ca5d9f3e20770b67880a57dded151") -- Schinese
+setManifestid(3755862, "8702760606186730306", 828065907)
+addappid(3755863, 1, "284e12d82c8696e2c3d4fd500c0da44ddca49794c6ccd0682e0ec75b18ba43d7") -- English
+setManifestid(3755863, "5145146131198925425", 814840268)
+addappid(3755864, 1, "c224ef7b659eeb66e7b48b84ce121c49fb721e84db25c92f0bfe8769e4a72c12") -- Tchinese
+setManifestid(3755864, "2826478471919248830", 835673659)

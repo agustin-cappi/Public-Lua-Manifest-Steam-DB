@@ -1,0 +1,10 @@
+-- Original file: 1267470.lua
+--Gamename Warriors of the Nile
+addappid(1267470) --Mainappid Warriors of the Nile
+addappid(1267471, 1, "d102fe7b5f8bd3273989af2e4a744e2ef7caeacfcbb1a0a87c469d499d5fa895") --Main Windows Depot Warriors of the Nile
+setManifestid(1267471, "1840483791714425965", 254380464)
+
+--[[
+Descargado desde Walftech: https://walftech.com/
+Discord: https://discord.com/invite/5m6vtWSpVD
+]]

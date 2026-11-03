@@ -1,0 +1,22 @@
+-- ============================================================
+-- Descargado desde Walftech  ->  https://walftech.com
+-- Generador de Manifest y Lua
+-- AppID: 3493540
+-- Fecha: 2026-09-29 16:10 UTC
+-- ============================================================
+
+--Gamename Transport Fever 3
+addappid(3493540) --Mainappid Transport Fever 3
+addtoken(3493540, "12729446192953376118")
+addappid(3493541, 1, "16dc1b7b118cf59c6dd3a61cc28759250c87f755c7c6c3e187862a586799b941") --Main Windows Depot Transport Fever 3
+setManifestid(3493541, "3423371049532759875", 29552013520)
+addappid(3493542, 1, "2ccd7e92c47a0da5141377e6adb2a243206b24e3de8272b887854b93ddb77128") --Main Windows Depot Transport Fever 3
+setManifestid(3493542, "7273310841282218484", 49410240)
+--Dlcname Transport Fever 3: Deluxe Upgrade
+addtoken(3979620, "4551533807665092458")
+addappid(3979620, 1, "75fe214544650fbe102852bf55d217db1b7e21de232aea73d1b595a4d90fa3b2") --Dlcname Transport Fever 3: Deluxe Upgrade
+setManifestid(3979620, "1657141639276536190", 1181946192)
+--Dlcname Transport Fever 3: Pre-Order Pack
+addtoken(3979630, "14318610725734177629")
+addappid(3979630, 1, "11ae0744206b99f1c4056c7e921c65d0f6d1cb8dd41cf077dc1603fb128b21ce") --Dlcname Transport Fever 3: Pre-Order Pack
+setManifestid(3979630, "2906427112187058072", 325914288)

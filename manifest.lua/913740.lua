@@ -1,0 +1,12 @@
+-- ============================================
+--  Credits: K3rnelPan1c (KernelOS / !K3rnalyze)
+-- ============================================
+
+addappid(913740)
+addappid(913741,0,"9010c47615015e2605a9d68ebc215d4888b67cc35c6f34d76a181ff1d507a00f")
+addappid(913742,0,"2af6cda9c214b4ac3f6b3ced0d979d21c0a3f08f6355c62dd7c48cdc5c806416")
+
+--[[
+Descargado desde Walftech: https://walftech.com/
+Discord: https://discord.com/invite/5m6vtWSpVD
+]]

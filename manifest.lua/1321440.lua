@@ -1,0 +1,21 @@
+-- Cassett​​‌‌‌​​​​​‌‌​​‌‌​‌‌​​‌​​​​‌‌​‌​‌​​‌‌​‌‌‌​​‌‌​​​​​​‌‌​​​‌​​‌‌‌​​​​‌‌​​‌​​​​‌‌‌​​‌​​‌‌‌​​​​​‌‌​‌​​​​‌‌​‌​​​‌‌​​‌​‌​‌‌​​​‌‌​‌‌​​​‌‌e Beasts
+-- Note: This game supports Steam Workshop content
+
+-- Main Application
+addappid(1321440, 1, "dec6c96656680e7c2e5b78f3c33bb1d04fc9299ab462347702643924acb7463a")
+
+-- Content Depots (2)
+addappid(1321441, 1, "4b2b7af55dd2d0d762362f7ae3a6a79e067d55d69bbe9a18fb25f6490502e984") -- Cassette Beasts - Windows
+addappid(1321442, 1, "968237b5b7d038a2e4d2f13e4f6fcb1df8540b27c202ab7266bfe2fd394fb7c8") -- Cassette Beasts - Linux
+
+-- DLCs with Content (5)
+addappid(2259040, 1, "d23bf85c2d6360990b438b6d1fd2c63b5d7c24cb01c1a120c8b7dd221dccfb46") -- Cassette Beasts The Art Book
+addappid(2202290, 1, "1564d02046599c4f28717654d546e8f43e97104029f6934be4bd99108f38c8df") -- Cassette Beasts Cosplay Pack
+addappid(2202291, 1, "e85bf84ad42978d8976eb07c3bf373d9c92bb406d8a4120120590281287ec143") -- Cassette Beasts Pier of the Unknown
+addappid(2958230, 1, "bb9a6c7f060379f62d307b0afc459b116b2d81324d348941e115f8207e2ac887") -- Cassette Beasts Wings Pack
+addappid(2856510, 1, "2d28891b81f24e20693d0de9515eed68c11d4439e6ffc397d649eb4cd043af90") -- Cassette Beasts Fashion Pack
+
+--[[
+Descargado desde Walftech: https://walftech.com/
+Discord: https://discord.com/invite/5m6vtWSpVD
+]]

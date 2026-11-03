@@ -1,0 +1,13 @@
+-- ============================================================
+-- Descargado desde Walftech  ->  https://walftech.com
+-- Generador de Manifest y Lua
+-- AppID: 4565560
+-- Fecha: 2026-09-20 06:07 UTC
+-- ============================================================
+
+--Gamename Princess Knight Concedes to Cum
+addappid(4565560, 1, "293aaae1bc60ae3e56fe6e9e3be3b3deab30e8def6170a5a13f6c269a3b66089") --Mainappid Princess Knight Concedes to Cum
+addappid(4565561, 1, "bf5047396d34852b8671b2cd1a8b59dbf49d636564af8b7f02d79f9d86d7a1af") --Main Windows/Linux Depot Princess Knight Concedes to Cum
+setManifestid(4565561, "7581092053903334959", 1211294224)
+addappid(4565562, 1, "0e2a1727a57e7c59daee71488fb2be6ea4b16df3c9b2c241521b3a70d52d0395") --Main Macos Depot Princess Knight Concedes to Cum
+setManifestid(4565562, "5262000922786159299", 1210021600)
